@@ -1,2 +1,2 @@
 # hello_world
-First repository
+I've joined this club to learn something new .
